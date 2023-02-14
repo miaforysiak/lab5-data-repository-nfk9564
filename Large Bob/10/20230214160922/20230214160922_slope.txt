@@ -1,0 +1,2 @@
+crossing time (s)	slope (V/s)	crossing number
+281474976710655.000000	4.123711	1413	0.000000
